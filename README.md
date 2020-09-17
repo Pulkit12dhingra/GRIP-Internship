@@ -1,0 +1,2 @@
+# GRIP-
+Internship at GRIP 
