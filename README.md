@@ -1,4 +1,4 @@
-# GRIP-
+# GRIP at Sparks
 Internship at GRIP 
 The repository is a collection set of all the task in the Internship at Sparks Foundation.
 The repository contains four notebooks representing four different tasks of the internships.
